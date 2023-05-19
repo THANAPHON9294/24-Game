@@ -1,6 +1,6 @@
 # 24-Game
 
-you should GraalVM JavaScript engine for run file
+you should have GraalVM JavaScript engine for run file
 
 you can install follow this link
 
